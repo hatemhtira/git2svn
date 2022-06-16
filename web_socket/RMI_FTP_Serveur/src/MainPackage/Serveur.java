@@ -6,7 +6,7 @@
 package MainPackage;
 
 
-import javax.swing.JOptionPane;
+import javax.swing.JOptionPane;  
 
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
