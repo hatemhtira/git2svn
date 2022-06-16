@@ -66,7 +66,7 @@ public class Serveur
     {
         try
         {
-            // create on port 1099
+            // create odddddddn port 1099
             Registry registry = LocateRegistry.createRegistry(port);
             // create a new service named myMessage
             registry.rebind("myMessage", Impl);
