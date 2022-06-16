@@ -1,0 +1,3 @@
+Abschläge. = reduction
+erzeugung = generation
+ablaufprocess
