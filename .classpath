@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="RMI_FTP_Client/src"/>
-	<classpathentry kind="src" path="RMI_FTP_Serveur/src"/>
-	<classpathentry kind="lib" path="RMI_FTP_Client/dist/RMI_FTP_Client.jar"/>
-	<classpathentry kind="lib" path="RMI_FTP_Serveur/dist/RMI_FTP_Serveur.jar"/>
-	<classpathentry kind="output" path="RMI_FTP_Client/build/classes"/>
-</classpath>
